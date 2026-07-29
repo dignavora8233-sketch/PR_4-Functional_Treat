@@ -1,12 +1,8 @@
 # Functional Treat
 
-summary = {}
+print("Welcome to the Data Analyzer and Transformer Program")
 
-# Welcome Function
-def welcome():
-    print("=" * 60)
-    print("Welcome to the Data Analyzer and Transformer Program")
-    print("=" * 60)
+summary = {}
 
 # Menu Function
 def menu():
@@ -193,8 +189,6 @@ def dataset_statistics(data):
 
 data = []
 array_type = "1D"
-
-welcome()
 
 while True:
 
