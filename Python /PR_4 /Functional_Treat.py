@@ -235,7 +235,7 @@ while True:
 
     elif choice == "7":
 
-        print("\nThank You...")
+        print("\nThank You for using the Data Analyzer and Transformer Program.Goodbye!")
         break
 
     else:
