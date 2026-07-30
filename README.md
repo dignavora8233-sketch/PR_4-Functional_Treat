@@ -123,6 +123,10 @@ By completing this project, you will understand:
 - Returning multiple values from a function
 - Building a menu-driven Python application
 
+🎥 Explanation Video
+
+https://drive.google.com/file/d/12Vlp8CR0uKtPMJLLTC-Hx7wF3eyTkxUx/view?usp=sharing
+
 ## 👩‍💻 Author
 
 **Digna Vora**
